@@ -1,3 +1,13 @@
+/* Paragraph spacing across all pages */
+p {
+    margin-bottom: 0.75rem;
+}
+
+/* Slightly smaller body font, excluding navbar */
+main, .bio-section {
+    font-size: 0.9em;
+}
+
 .bold-text {
     font-weight: bold;
 }
