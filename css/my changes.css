@@ -1,3 +1,11 @@
+/* Footer bubble spacing */
+footer .list-inline-item {
+    margin-right: 2px;
+}
+footer .list-inline-item:last-child {
+    margin-right: 0;
+}
+
 /* Paragraph spacing across all pages */
 p {
     margin-bottom: 0.75rem;
